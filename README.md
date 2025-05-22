@@ -1,5 +1,11 @@
 Simulador aMORA
 
+<div align="center">
+  <img src="\assets\interface.PNG" width="600" alt="Tela Principal">
+  <p>Interface gráfica do simulador de financiamento</p>
+</div>
+
+
 Simulador financeiro para cálculo de entrada e parcelas de financiamento imobiliário com correção pelo IGPM ou juros compostos.
 
 Como Executar
