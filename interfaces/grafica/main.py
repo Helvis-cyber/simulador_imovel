@@ -156,7 +156,7 @@ class SimuladorImovel:
         # Rodapé
         ttk.Label(
             main_frame,
-            text="© 2023 Simulador aMORA - Versão 2.0",
+            text="© 2025 Simulador aMORA - Versão 2.0",
             font=('Arial', 8),
             foreground='#999999'
         ).grid(row=6, column=0, columnspan=2, pady=(20, 0))
