@@ -18,9 +18,7 @@ python interfaces/grafica/main.py
 Versão Terminal
 python interfaces/terminal/main.py
 
-![image](https://github.com/user-attachments/assets/e3f16738-bb7c-42d3-b26c-80d54005f810)
 
-![image](https://github.com/user-attachments/assets/746f45b4-af4a-40f9-88e6-0a026a769b90)
 
 
 
